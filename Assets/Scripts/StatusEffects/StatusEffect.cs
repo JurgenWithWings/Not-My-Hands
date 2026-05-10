@@ -47,7 +47,7 @@ public abstract class StatusEffect {
     
     public virtual void Update() {
         if (CurrentDuration <= 0) {
-            RemoveStacks(Data.StacksLostOnDurationEnd);
+            RemoveStacks(Data.stacksLostOnDurationEnd);
             CurrentDuration = Data.maxDuration;
         }
         CurrentDuration -= Time.deltaTime;
@@ -73,7 +73,7 @@ public abstract class BuffEffect : StatusEffect {
 
     public override void Update() {
         if (CurrentDuration <= 0) {
-            RemoveStacks(Data.StacksLostOnDurationEnd);
+            RemoveStacks(Data.stacksLostOnDurationEnd);
             CurrentDuration = Data.maxDuration;
         }
         CurrentDuration -= Time.deltaTime / durationMult;

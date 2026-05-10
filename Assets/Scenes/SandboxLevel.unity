@@ -225,7 +225,7 @@ GameObject:
   m_Component:
   - component: {fileID: 16115847}
   m_Layer: 0
-  m_Name: Legendary
+  m_Name: f:Legendary
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -256,7 +256,7 @@ GameObject:
   m_Component:
   - component: {fileID: 16856400}
   m_Layer: 0
-  m_Name: Rare
+  m_Name: f:Rare
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -292,7 +292,7 @@ GameObject:
   m_Component:
   - component: {fileID: 23350572}
   m_Layer: 0
-  m_Name: PatrolRoutes
+  m_Name: f:PatrolRoutes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -330,7 +330,7 @@ GameObject:
   m_Component:
   - component: {fileID: 32005692}
   m_Layer: 0
-  m_Name: Route5
+  m_Name: f:Route5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5304,7 +5304,7 @@ GameObject:
   m_Component:
   - component: {fileID: 292707519}
   m_Layer: 0
-  m_Name: Enemies
+  m_Name: f:Enemies
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5386,7 +5386,7 @@ GameObject:
   m_Component:
   - component: {fileID: 303448832}
   m_Layer: 0
-  m_Name: Rare
+  m_Name: f:Rare
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7753,7 +7753,7 @@ GameObject:
   m_Component:
   - component: {fileID: 374343785}
   m_Layer: 0
-  m_Name: Route4
+  m_Name: f:Route4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7925,7 +7925,7 @@ GameObject:
   m_Component:
   - component: {fileID: 398313446}
   m_Layer: 0
-  m_Name: ItemRange
+  m_Name: f:ItemRange
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8199,7 +8199,7 @@ GameObject:
   m_Component:
   - component: {fileID: 417743078}
   m_Layer: 0
-  m_Name: Arms
+  m_Name: f:Arms
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14626,7 +14626,7 @@ GameObject:
   m_Component:
   - component: {fileID: 641182424}
   m_Layer: 26
-  m_Name: Invisable Walls
+  m_Name: f:Invisable Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14726,7 +14726,7 @@ GameObject:
   m_Component:
   - component: {fileID: 649454270}
   m_Layer: 0
-  m_Name: Legendary
+  m_Name: f:Legendary
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14758,7 +14758,7 @@ GameObject:
   m_Component:
   - component: {fileID: 687245328}
   m_Layer: 0
-  m_Name: Cursed
+  m_Name: f:Cursed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14789,7 +14789,7 @@ GameObject:
   m_Component:
   - component: {fileID: 696067289}
   m_Layer: 0
-  m_Name: Epic
+  m_Name: f:Epic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14821,7 +14821,7 @@ GameObject:
   m_Component:
   - component: {fileID: 749338636}
   m_Layer: 0
-  m_Name: Items
+  m_Name: f:Items
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15003,7 +15003,7 @@ GameObject:
   m_Component:
   - component: {fileID: 840905755}
   m_Layer: 0
-  m_Name: Route7
+  m_Name: f:Route7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15235,7 +15235,7 @@ GameObject:
   m_Component:
   - component: {fileID: 869342189}
   m_Layer: 0
-  m_Name: Route1
+  m_Name: f:Route1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15268,7 +15268,7 @@ GameObject:
   m_Component:
   - component: {fileID: 881880409}
   m_Layer: 0
-  m_Name: Route2
+  m_Name: f:Route2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15370,7 +15370,7 @@ GameObject:
   m_Component:
   - component: {fileID: 906460028}
   m_Layer: 0
-  m_Name: Shops
+  m_Name: f:Shops
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16659,7 +16659,7 @@ GameObject:
   m_Component:
   - component: {fileID: 930622120}
   m_Layer: 0
-  m_Name: Limbs
+  m_Name: f:Limbs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19493,7 +19493,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1106081956}
   m_Layer: 0
-  m_Name: Legendary
+  m_Name: f:Legendary
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19547,7 +19547,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1144402739}
   m_Layer: 0
-  m_Name: Epic
+  m_Name: f:Epic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22160,7 +22160,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1277956099}
   m_Layer: 0
-  m_Name: Organs
+  m_Name: f:Organs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22304,7 +22304,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1342590206}
   m_Layer: 0
-  m_Name: Rare
+  m_Name: f:Rare
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22335,7 +22335,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1408884595}
   m_Layer: 0
-  m_Name: Route3
+  m_Name: f:Route3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23938,7 +23938,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1545786378}
   m_Layer: 0
-  m_Name: Epic
+  m_Name: f:Epic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23970,7 +23970,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1556266062}
   m_Layer: 0
-  m_Name: Route6
+  m_Name: f:Route6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24111,7 +24111,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1561429551}
   m_Layer: 0
-  m_Name: Legendary
+  m_Name: f:Legendary
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24537,7 +24537,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1714311493}
   m_Layer: 0
-  m_Name: Cursed
+  m_Name: f:Cursed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24568,7 +24568,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1718992842}
   m_Layer: 0
-  m_Name: LevelGeometry
+  m_Name: f:LevelGeometry
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25764,7 +25764,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1756796855}
   m_Layer: 0
-  m_Name: Rare
+  m_Name: f:Rare
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26095,7 +26095,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1974463139}
   m_Layer: 0
-  m_Name: Cursed
+  m_Name: f:Cursed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27254,7 +27254,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1979177715}
   m_Layer: 0
-  m_Name: Lights
+  m_Name: f:Lights
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30201,7 +30201,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2010780674}
   m_Layer: 0
-  m_Name: Epic
+  m_Name: f:Epic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30480,7 +30480,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2080788374}
   m_Layer: 0
-  m_Name: Legs
+  m_Name: f:Legs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30516,7 +30516,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2108699358}
   m_Layer: 0
-  m_Name: Cursed
+  m_Name: f:Cursed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30547,7 +30547,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2111555945}
   m_Layer: 0
-  m_Name: Relics
+  m_Name: f:Relics
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
